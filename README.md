@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://365leavorstudio.vercel.app/"><img src="https://img.shields.io/badge/Website-365leavorstudio.vercel.app-111111?style=for-the-badge&logo=vercel" alt="Website"></a>
-    <a href="https://github.com/sumantkael/365-releases/releases/latest"><img src="https://img.shields.io/badge/Latest_Release-v1.3.0-00DC82?style=for-the-badge&logo=github" alt="Latest Release"></a>
+    <a href="https://github.com/sumantkael/365-releases/releases/latest"><img src="https://img.shields.io/badge/Latest_Release-v1.4.0-00DC82?style=for-the-badge&logo=github" alt="Latest Release"></a>
     <img src="https://img.shields.io/badge/Platform-Windows_%7C_Android-blue?style=for-the-badge" alt="Platforms">
     <img src="https://img.shields.io/badge/License-Free-white?style=for-the-badge" alt="Free App">
   </p>
@@ -21,9 +21,9 @@ All official release binaries, installers, and APKs are hosted directly in this 
 
 | Platform | Distribution Type | File | Architecture | Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Windows 10 / 11** | **Setup Wizard (Recommended)** | `365-Setup-1.3.0.exe` | 64-bit | [**Download (.exe)**](../../releases/download/v1.3.0/365-Setup-1.3.0.exe) |
-| **Windows 10 / 11** | **Standalone Portable** | `Day.exe` | 64-bit | [**Download (.exe)**](../../releases/download/v1.3.0/Day.exe) |
-| **Android** | **Universal APK** | `365-Android-v1.0.apk` | ARM64 / universal | [**Download (.apk)**](../../releases/download/v1.3.0/365-Android-v1.0.apk) |
+| **Windows 10 / 11** | **Setup Wizard (Recommended)** | `365-Setup-1.4.0.exe` | 64-bit | [**Download (.exe)**](../../releases/download/v1.4.0/365-Setup-1.4.0.exe) |
+| **Windows 10 / 11** | **Standalone Portable** | `Day.exe` | 64-bit | [**Download (.exe)**](../../releases/download/v1.4.0/Day.exe) |
+| **Android** | **Universal APK** | `365-Android-v1.0.apk` | ARM64 / universal | [**Download (.apk)**](../../releases/download/v1.4.0/365-Android-v1.0.apk) |
 
 > [!NOTE]  
 > 365 is completely free. No subscription, no telemetry, no account required.
@@ -60,7 +60,7 @@ All official release binaries, installers, and APKs are hosted directly in this 
 ## 🚀 Installation & Getting Started
 
 ### Windows
-1. Download **`365-Setup-1.3.0.exe`** from the table above or the [Releases tab](../../releases).
+1. Download **`365-Setup-1.4.0.exe`** from the table above or the [Releases tab](../../releases).
 2. Run the installer (requires no administrative privileges).
 3. Select your preferred display mode and theme in the settings window.
 4. Click **"Apply Wallpaper"**.
